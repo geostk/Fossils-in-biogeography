@@ -1,0 +1,4 @@
+"name"	Minage	Maxage	crown/stem/na/both
+Fossil_Potalieae	37	41.2	both
+Gentianaceae_Anthocleista_grandiflora
+Gentianaceae_Potalia_resinifera

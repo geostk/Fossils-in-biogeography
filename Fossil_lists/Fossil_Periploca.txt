@@ -1,0 +1,3 @@
+"name"	Minage	Maxage	crown/stem/na
+Fossil_Periploca	20.3	23	na
+Apocynaceae_Periploca_graeca

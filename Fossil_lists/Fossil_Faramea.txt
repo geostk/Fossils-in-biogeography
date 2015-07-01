@@ -1,0 +1,3 @@
+"name"	Minage	Maxage	crown/stem/na
+Fossil_Faramea	33.9	37.9	na
+Rubiaceae_Faramea_multiflora

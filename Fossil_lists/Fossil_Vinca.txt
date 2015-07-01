@@ -1,0 +1,5 @@
+"name"	Minage	Maxage	crown/stem/na
+Fossil_Vinca	6.8	6.8	both
+Apocynaceae_Vinca_difformis
+Apocynaceae_Vinca_major
+Apocynaceae_Vinca_minor

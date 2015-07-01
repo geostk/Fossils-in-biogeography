@@ -1,0 +1,4 @@
+"name"	Minage	Maxage	crown/stem/na
+Fossil_Posoqueria	5.3	23	both
+Rubiaceae_Posoqueria_latifolia
+Rubiaceae_Posoqueria_longiflora

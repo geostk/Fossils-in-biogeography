@@ -1,0 +1,8 @@
+"name"	Minage	Maxage	crown/stem/na
+Fossil_Guettarda	37.8	47.8	both
+Rubiaceae_Guettarda_calyptrata
+Rubiaceae_Guettarda_crispiflora
+Rubiaceae_Guettarda_pohliana
+Rubiaceae_Guettarda_speciosa
+Rubiaceae_Guettarda_tournefortiopsis
+Rubiaceae_Guettarda_uruguensis

@@ -1,0 +1,6 @@
+"name"	Minage	Maxage	crown/stem/na
+Fossil_Galium	5.3	23	stem
+Rubiaceae_Galium_aparine
+Rubiaceae_Galium_mollugo
+Rubiaceae_Galium_palustre
+Rubiaceae_Galium_parisiense

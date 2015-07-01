@@ -1,0 +1,4 @@
+"name"	Minage	Maxage	crown/stem/na
+Fossil_Anthospermeae	28.1	33.9	both
+Rubiaceae_Anthospermum_herbaceum
+Rubiaceae_Carpacoce_sp

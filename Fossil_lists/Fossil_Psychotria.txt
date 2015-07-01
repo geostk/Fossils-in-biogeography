@@ -1,0 +1,13 @@
+"name"	Minage	Maxage	crown/stem/na
+Fossil_Psychotria	2.6	5.3	both
+Rubiaceae_Psychotria_amboniana
+Rubiaceae_Psychotria_asiatica
+Rubiaceae_Psychotria_capensis
+Rubiaceae_Psychotria_ficigemma
+Rubiaceae_Psychotria_graciliflora
+Rubiaceae_Psychotria_grandis
+Rubiaceae_Psychotria_hispidula
+Rubiaceae_Psychotria_kirkii
+Rubiaceae_Psychotria_mapourioides
+Rubiaceae_Psychotria_nervosa
+Rubiaceae_Psychotria_poeppigiana

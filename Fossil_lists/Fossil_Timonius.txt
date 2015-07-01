@@ -1,0 +1,4 @@
+"name"	Minage	Maxage	crown/stem/na
+Fossil_Timonius	16	23	both
+Rubiaceae_Timonius_celebicus
+Rubiaceae_Timonius_timon

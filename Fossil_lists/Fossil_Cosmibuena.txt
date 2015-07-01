@@ -1,0 +1,4 @@
+"name"	Minage	Maxage	crown/stem/na
+Fossil_Cosmibuena	5.3	23	both
+Rubiaceae_Cosmibuena_grandiflora
+Rubiaceae_Cosmibuena_valerioi

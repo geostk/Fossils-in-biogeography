@@ -1,0 +1,5 @@
+"name"	Minage	Maxage	crown/stem/na
+Fossil_Gardenia	5.3	11.2	both
+Rubiaceae_Gardenia_hansemannii
+Rubiaceae_Gardenia_jasminoides
+Rubiaceae_Gardenia_thunbergia

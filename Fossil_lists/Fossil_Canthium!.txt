@@ -1,0 +1,5 @@
+"name"	Minage	Maxage	crown/stem/na
+Fossil_Canthium	33.9	33.9	both
+Rubiaceae_Canthium_armatum
+Rubiaceae_Canthium_coromandelicum
+Rubiaceae_Canthium_inerme

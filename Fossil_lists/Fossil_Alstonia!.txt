@@ -1,0 +1,4 @@
+"name"	Minage	Maxage	crown/stem/na
+Fossil_Alstonia	27.3	33.9	both
+Apocynaceae_Alstonia_longifolia
+Apocynaceae_Alstonia_scholaris

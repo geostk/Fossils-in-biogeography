@@ -1,0 +1,5 @@
+"name"	Minage	Maxage	crown/stem/na
+Fossil_Sabicea	16	16	both
+Rubiaceae_Sabicea_aspera
+Rubiaceae_Sabicea_diversifolia
+Rubiaceae_Sabicea_villosa

@@ -1,0 +1,3 @@
+"name"	Minage	Maxage	crown/stem/na
+Fossil_Geissospermum	5.3	11.2	na
+Apocynaceae_Geissospermum_laeve

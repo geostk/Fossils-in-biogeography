@@ -1,0 +1,9 @@
+"name"	Minage	Maxage	crown/stem/na
+Fossil_Asclepiadaceae	20.4	23	crown
+Apocynaceae_Asclepias_curassavica
+Apocynaceae_Mondia_ecornuta
+Apocynaceae_Rhabdadenia_biflora
+Apocynaceae_Secamone_elliptica
+Apocynaceae_Telosma_cordata
+Apocynaceae_Trachelospermum_jasminoides
+Apocynaceae_Vincetoxicum_hirundinaria

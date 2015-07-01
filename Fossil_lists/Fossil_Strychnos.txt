@@ -1,0 +1,6 @@
+"name"	Minage	Maxage	crown/stem/na
+Fossil_Strychnos	28.1	28.1	both
+Loganiaceae_Strychnos_decussata
+Loganiaceae_Strychnos_lucida
+Loganiaceae_Strychnos_nux
+Loganiaceae_Strychnos_potatorum

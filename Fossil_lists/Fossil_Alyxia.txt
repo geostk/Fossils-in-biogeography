@@ -1,0 +1,3 @@
+"name"	Minage	Maxage	crown/stem/na
+Fossil_Alyxia	41.3	41.3	na
+Apocynaceae_Alyxia_reinwardtii

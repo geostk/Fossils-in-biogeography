@@ -1,0 +1,16 @@
+"name"	Minage	Maxage	crown/stem/na
+Fossil_Ixoroideae_and_Cinchonoideae	37.8	47.8	both
+Rubiaceae_Alseis_floribunda
+Rubiaceae_Alseis_lugonis
+Rubiaceae_Deppea_erythrorhiza
+Rubiaceae_Deppea_grandiflora
+Rubiaceae_Guettarda_calyptrata
+Rubiaceae_Guettarda_crispiflora
+Rubiaceae_Guettarda_pohliana
+Rubiaceae_Guettarda_speciosa
+Rubiaceae_Guettarda_tournefortiopsis
+Rubiaceae_Guettarda_uruguensis
+Rubiaceae_Ixora_borboniae
+Rubiaceae_Ixora_coccinea
+Rubiaceae_Ixora_ferrea
+Rubiaceae_Ixora_margaretae

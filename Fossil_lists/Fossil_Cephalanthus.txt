@@ -1,0 +1,5 @@
+"name"	Minage	Maxage	crown/stem/na
+Fossil_Cephalanthus	33.9	33.9	stem
+Rubiaceae_Cephalanthus_natalensis
+Rubiaceae_Cephalanthus_occidentalis
+Rubiaceae_Cephalanthus_salicifolius

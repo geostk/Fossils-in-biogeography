@@ -1,0 +1,5 @@
+"name"	Minage	Maxage	crown/stem/na
+Fossil_Mussaenda	5.3	23	both
+Rubiaceae_Mussaenda_arcuata
+Rubiaceae_Mussaenda_erythrophylla
+Rubiaceae_Mussaenda_raiateensis

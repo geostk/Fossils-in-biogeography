@@ -1,0 +1,4 @@
+"name"	Minage	Maxage	crown/stem/na
+Fossil_Gentiana	1.8	66	both
+Gentianaceae_Gentiana_procera
+Gentianaceae_Gentiana_verna

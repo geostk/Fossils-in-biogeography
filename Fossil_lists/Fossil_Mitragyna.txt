@@ -1,0 +1,6 @@
+"name"	Minage	Maxage	crown/stem/na
+Fossil_Mitragyna	23	33.9	both
+Rubiaceae_Mitragyna_inermis
+Rubiaceae_Mitragyna_rotundifolia
+Rubiaceae_Mitragyna_rubrostipulata
+Rubiaceae_Mitragyna_stipulosa

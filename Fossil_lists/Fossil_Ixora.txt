@@ -1,0 +1,6 @@
+"name"	Minage	Maxage	crown/stem/na
+Fossil_Ixora	11.6	23	both
+Rubiaceae_Ixora_borboniae
+Rubiaceae_Ixora_coccinea
+Rubiaceae_Ixora_margaretae
+Rubiaceae_Ixora_ferrea
